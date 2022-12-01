@@ -1,0 +1,8 @@
+C:\Users\roman\OneDrive\Escritorio\git\MyRepostory\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe.config
+C:\Users\roman\OneDrive\Escritorio\git\MyRepostory\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe
+C:\Users\roman\OneDrive\Escritorio\git\MyRepostory\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.pdb
+C:\Users\roman\OneDrive\Escritorio\git\MyRepostory\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Escritorio\git\MyRepostory\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\roman\OneDrive\Escritorio\git\MyRepostory\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Escritorio\git\MyRepostory\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.exe
+C:\Users\roman\OneDrive\Escritorio\git\MyRepostory\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.pdb
